@@ -1,0 +1,10 @@
+C:\Users\Huan\Desktop\DaoThiHongPhuong\DaoThiHongPhuong212\bin\Debug\DaoThiHongPhuong212.exe.config
+C:\Users\Huan\Desktop\DaoThiHongPhuong\DaoThiHongPhuong212\bin\Debug\DaoThiHongPhuong212.exe
+C:\Users\Huan\Desktop\DaoThiHongPhuong\DaoThiHongPhuong212\bin\Debug\DaoThiHongPhuong212.pdb
+C:\Users\Huan\Desktop\DaoThiHongPhuong\DaoThiHongPhuong212\obj\Debug\DaoThiHongPhuong212.csproj.AssemblyReference.cache
+C:\Users\Huan\Desktop\DaoThiHongPhuong\DaoThiHongPhuong212\obj\Debug\DaoThiHongPhuong212.Form1.resources
+C:\Users\Huan\Desktop\DaoThiHongPhuong\DaoThiHongPhuong212\obj\Debug\DaoThiHongPhuong212.Properties.Resources.resources
+C:\Users\Huan\Desktop\DaoThiHongPhuong\DaoThiHongPhuong212\obj\Debug\DaoThiHongPhuong212.csproj.GenerateResource.cache
+C:\Users\Huan\Desktop\DaoThiHongPhuong\DaoThiHongPhuong212\obj\Debug\DaoThiHongPhuong212.csproj.CoreCompileInputs.cache
+C:\Users\Huan\Desktop\DaoThiHongPhuong\DaoThiHongPhuong212\obj\Debug\DaoThiHongPhuong212.exe
+C:\Users\Huan\Desktop\DaoThiHongPhuong\DaoThiHongPhuong212\obj\Debug\DaoThiHongPhuong212.pdb
