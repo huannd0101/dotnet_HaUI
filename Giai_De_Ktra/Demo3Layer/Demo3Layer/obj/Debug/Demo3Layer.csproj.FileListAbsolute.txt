@@ -1,0 +1,10 @@
+D:\Learning\C#\WindowForm\Demo3Layer\Demo3Layer\bin\Debug\Demo3Layer.exe.config
+D:\Learning\C#\WindowForm\Demo3Layer\Demo3Layer\bin\Debug\Demo3Layer.exe
+D:\Learning\C#\WindowForm\Demo3Layer\Demo3Layer\bin\Debug\Demo3Layer.pdb
+D:\Learning\C#\WindowForm\Demo3Layer\Demo3Layer\obj\Debug\Demo3Layer.csproj.AssemblyReference.cache
+D:\Learning\C#\WindowForm\Demo3Layer\Demo3Layer\obj\Debug\Demo3Layer.Form1.resources
+D:\Learning\C#\WindowForm\Demo3Layer\Demo3Layer\obj\Debug\Demo3Layer.Properties.Resources.resources
+D:\Learning\C#\WindowForm\Demo3Layer\Demo3Layer\obj\Debug\Demo3Layer.csproj.GenerateResource.cache
+D:\Learning\C#\WindowForm\Demo3Layer\Demo3Layer\obj\Debug\Demo3Layer.csproj.CoreCompileInputs.cache
+D:\Learning\C#\WindowForm\Demo3Layer\Demo3Layer\obj\Debug\Demo3Layer.exe
+D:\Learning\C#\WindowForm\Demo3Layer\Demo3Layer\obj\Debug\Demo3Layer.pdb
