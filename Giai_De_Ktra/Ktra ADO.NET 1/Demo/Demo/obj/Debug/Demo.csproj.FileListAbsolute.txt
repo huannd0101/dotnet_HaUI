@@ -1,0 +1,10 @@
+D:\Ktra C#\Demo\Demo\bin\Debug\Demo.exe.config
+D:\Ktra C#\Demo\Demo\bin\Debug\Demo.exe
+D:\Ktra C#\Demo\Demo\bin\Debug\Demo.pdb
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.Form1.resources
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.exe
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.pdb
