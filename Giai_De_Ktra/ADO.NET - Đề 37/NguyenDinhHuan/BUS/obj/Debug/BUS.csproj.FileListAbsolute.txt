@@ -1,0 +1,9 @@
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\BUS\bin\Debug\BUS.dll
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\BUS\bin\Debug\BUS.pdb
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\BUS\bin\Debug\DAL.dll
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\BUS\bin\Debug\DAL.pdb
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\BUS\obj\Debug\BUS.dll
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\BUS\obj\Debug\BUS.pdb

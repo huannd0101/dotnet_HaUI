@@ -1,0 +1,6 @@
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\DAL\bin\Debug\DAL.dll
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\DAL\bin\Debug\DAL.pdb
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\DAL\obj\Debug\DAL.dll
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\DAL\obj\Debug\DAL.pdb

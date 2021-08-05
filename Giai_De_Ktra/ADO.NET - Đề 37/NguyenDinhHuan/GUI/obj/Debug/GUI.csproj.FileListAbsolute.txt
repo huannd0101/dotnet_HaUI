@@ -1,0 +1,15 @@
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\bin\Debug\GUI.exe.config
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\bin\Debug\GUI.exe
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\bin\Debug\GUI.pdb
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\bin\Debug\BUS.dll
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\bin\Debug\DAL.dll
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\bin\Debug\BUS.pdb
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\bin\Debug\DAL.pdb
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\obj\Debug\GUI.frmQLNS.resources
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\obj\Debug\GUI.exe
+C:\Users\Huan\Desktop\NguyenDinhHuan2019602287\NguyenDinhHuan\GUI\obj\Debug\GUI.pdb
