@@ -1,0 +1,16 @@
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\bin\Debug\net5.0\Demo.exe
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\bin\Debug\net5.0\Demo.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\bin\Debug\net5.0\ref\Demo.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\obj\Debug\net5.0\Demo.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\obj\Debug\net5.0\ref\Demo.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\obj\Debug\net5.0\Demo.pdb
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
