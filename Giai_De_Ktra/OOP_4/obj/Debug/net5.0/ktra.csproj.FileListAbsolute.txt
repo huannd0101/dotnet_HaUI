@@ -1,0 +1,16 @@
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\bin\Debug\net5.0\ktra.exe
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\bin\Debug\net5.0\ktra.deps.json
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\bin\Debug\net5.0\ktra.runtimeconfig.json
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\bin\Debug\net5.0\ktra.runtimeconfig.dev.json
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\bin\Debug\net5.0\ktra.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\bin\Debug\net5.0\ref\ktra.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\bin\Debug\net5.0\ktra.pdb
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\obj\Debug\net5.0\ktra.csproj.AssemblyReference.cache
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\obj\Debug\net5.0\ktra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\obj\Debug\net5.0\ktra.AssemblyInfoInputs.cache
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\obj\Debug\net5.0\ktra.AssemblyInfo.cs
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\obj\Debug\net5.0\ktra.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\obj\Debug\net5.0\ktra.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\obj\Debug\net5.0\ref\ktra.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\obj\Debug\net5.0\ktra.pdb
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\ktra\obj\Debug\net5.0\ktra.genruntimeconfig.cache
