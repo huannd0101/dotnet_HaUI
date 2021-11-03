@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "De5_Phuong_461_C3_C1/1.0.0": {
+        "runtime": {
+          "De5_Phuong_461_C3_C1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "De5_Phuong_461_C3_C1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

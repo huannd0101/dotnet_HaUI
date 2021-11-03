@@ -1,0 +1,16 @@
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\bin\Debug\net5.0\De5_Phuong_461_C3_C1.exe
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\bin\Debug\net5.0\De5_Phuong_461_C3_C1.deps.json
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\bin\Debug\net5.0\De5_Phuong_461_C3_C1.runtimeconfig.json
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\bin\Debug\net5.0\De5_Phuong_461_C3_C1.runtimeconfig.dev.json
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\bin\Debug\net5.0\De5_Phuong_461_C3_C1.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\bin\Debug\net5.0\ref\De5_Phuong_461_C3_C1.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\bin\Debug\net5.0\De5_Phuong_461_C3_C1.pdb
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\obj\Debug\net5.0\De5_Phuong_461_C3_C1.csproj.AssemblyReference.cache
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\obj\Debug\net5.0\De5_Phuong_461_C3_C1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\obj\Debug\net5.0\De5_Phuong_461_C3_C1.AssemblyInfoInputs.cache
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\obj\Debug\net5.0\De5_Phuong_461_C3_C1.AssemblyInfo.cs
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\obj\Debug\net5.0\De5_Phuong_461_C3_C1.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\obj\Debug\net5.0\De5_Phuong_461_C3_C1.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\obj\Debug\net5.0\ref\De5_Phuong_461_C3_C1.dll
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\obj\Debug\net5.0\De5_Phuong_461_C3_C1.pdb
+C:\Users\Nguyen Dinh Huan\OneDrive\Desktop\De5_Phuong_461_C3_C1\obj\Debug\net5.0\De5_Phuong_461_C3_C1.genruntimeconfig.cache
